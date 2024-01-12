@@ -1,0 +1,18 @@
+-- Készítsd el a Nintendo-s Pizzázót!
+-- Adott egy pizzázó ami kreatív és az első ilyen... azonban az oldaluk régi, elavult, rendezetlen.
+-- Feladatotok, hogy készítsétek el a felújított kicsit továbbgondolt weboldalt a témában.
+-- Az elkészült feladatotokat küldjétek vissza!
+
+TODO:
+    * Elavult weboldal html5-re átírni;
+    * Továbbgondolni a weboldalt, reszponzívvá tenni;
+    * Logók, ikonok használata. A weboldalra; megfelelő színválasztás
+    + Javascript: egy pizzajáték, pizzaszámláló, hogy a vevő mennyi pizzát kér, és a feltétek ígyváltoznak. 
+
+Ötletek a weboldalhoz:
+
+-- Logók és ikonok: Használj logókat a fejlécben és láblécben a vállalkozásodat reprezentálva. Emellett fontolóra veheted a Nintendo karakterek ikonjainak felhasználását a menük és kategóriák jelölésére.
+-- Responszív dizájn: Biztosítsd, hogy a weboldal jól nézzen ki és jól működjön minden eszközön, beleértve asztali számítógépeket, táblagépeket és mobiltelefonokat is.
+-- Interaktív menük: Használj JavaScript-et vagy más frontend technológiát a menük interaktívvá tételéhez. Például, ha a felhasználó rákattint egy pizzafajtára, megjelenhet egy részletes leírás.
+-- Rendelési űrlap: Készíts egy egyszerű rendelési űrlapot, ahol a látogatók kiválaszthatják a kívánt pizzát, desszertet és üdítőt, majd leadhatják rendelésüket.
+-- Galéria: Készíts egy galériát a vendégek által beküldött képekből, amelyek bemutatják, hogy ők élvezik a pizzát és a játékokat a helyszínen.
